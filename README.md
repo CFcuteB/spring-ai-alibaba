@@ -55,6 +55,12 @@
 * Requires JDK 17+.
 * Choose your LLM provider and get the API-KEY.
 
+
+### Install and Check:
+
+For the installation and verification, please visit the [@CFcuteB/install-instruction](https://github.com/CFcuteB/install-instruction) repository.
+
+
 ### Quickly Run a ChatBot
 
 There's a ChatBot example provided by the community at [examples/chatbot](https://github.com/alibaba/spring-ai-alibaba/tree/main/examples/chatbot).
@@ -85,6 +91,7 @@ There's a ChatBot example provided by the community at [examples/chatbot](https:
 <p align="center">
 	<img src="./docs/imgs/chatbot-chat-ui.gif" alt="chatbot-ui" style="max-width: 740px; height: auto" />
 </p>
+
 
 ## Chatbot Code Explained
 
